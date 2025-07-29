@@ -17,6 +17,8 @@ class WgerAPI {
   }
 }
 
+export default WgerAPI;
+
 // TESTING
 const api = new WgerAPI();
 api.getExercises().then(exercises => {

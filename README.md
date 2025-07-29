@@ -17,7 +17,7 @@ npm install
 ## Usage
 
 ```javascript
-import { WgerAPI } from './wger.js';
+import WgerAPI from './wger.js';
 
 const api = new WgerAPI();
 
